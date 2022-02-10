@@ -1,2 +1,2 @@
-# Analyse-de-donn-es-multidimensionnelles
+# Analyse-de-données-multidimensionnelles
 ACP, Analyses factorielles, Clustering
